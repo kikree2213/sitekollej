@@ -1,0 +1,78 @@
+body{
+    background-image: url(Img/фон.jpg);
+    background-repeat: no-repeat;
+    background-attachment:  scroll;
+
+}
+.glav{
+text-align: center;
+font-size: 25px;
+color: aliceblue;
+ margin-top: 300px;
+}
+ 
+
+ #knop1,#knop2 ,#knop3 ,#knop4{
+    width: 150px;
+    height: 35px;
+    font-size: 25px;
+    margin-top: 100px;
+    border: solid rgb(194, 19, 19) 2px;
+ }
+ #knop1{
+     position: absolute;
+     left: 0px;
+     top: -100px;
+ }
+ #knop2{
+    position: absolute;
+    left: 150px;
+    top: -100px;
+}
+#knop3{
+    position: absolute;
+    left: 300px;
+    top: -100px;
+}
+#knop4{
+   position: absolute;
+   left: 450px;
+   top: -100px;
+}
+.img1{
+    padding-right: 850px;
+}
+.img2{
+    position: absolute;
+    top: 389px;
+    left: 1500px;
+
+}
+table{
+    width: 100%;
+    border-collapse:collapse;
+    border-spacing:0
+    }
+    table, td, th {
+    border: 1px solid #595959;
+    }
+    td, th {
+    padding: 3px;
+    width: 30px;
+    height: 35px;
+    }
+    th {
+    background-color: #7accee;
+    }
+#text-1{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 300px;
+}
+.center-info{
+    margin-top: 200px;
+}
+#big{
+    font-size: 50px;
+}
+ 
